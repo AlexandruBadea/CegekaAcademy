@@ -11,3 +11,10 @@ Created the _Fundraiser_ class that has a title, a description and a donation ta
 #### Screenshot
 
 ![fundraiser](https://iili.io/HM5o18F.jpg)
+
+### **Tema 02 - SQL & ORM**
+Created the fundraiser table with the logic from previous homework and its repository that has the common methids from the base repo and a function that calculates the current raised amount.
+
+#### Screenshot
+
+![fundraiser](https://www.linkpicture.com/q/Screenshot_26_1.jpg)
