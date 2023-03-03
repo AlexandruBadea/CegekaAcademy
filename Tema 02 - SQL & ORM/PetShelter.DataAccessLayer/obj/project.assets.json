@@ -3431,11 +3431,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\CegekaAcademy\\LearningSessions\\02. SQL & ORM\\PetShelter\\PetShelter.DataAccessLayer\\PetShelter.DataAccessLayer.csproj",
+      "projectUniqueName": "E:\\Project\\CegekaAcademy\\Homeworks\\CegekaAcademy\\Tema 02 - SQL & ORM\\PetShelter.DataAccessLayer\\PetShelter.DataAccessLayer.csproj",
       "projectName": "PetShelter.DataAccessLayer",
-      "projectPath": "E:\\Project\\CegekaAcademy\\LearningSessions\\02. SQL & ORM\\PetShelter\\PetShelter.DataAccessLayer\\PetShelter.DataAccessLayer.csproj",
+      "projectPath": "E:\\Project\\CegekaAcademy\\Homeworks\\CegekaAcademy\\Tema 02 - SQL & ORM\\PetShelter.DataAccessLayer\\PetShelter.DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Sandu\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\CegekaAcademy\\LearningSessions\\02. SQL & ORM\\PetShelter\\PetShelter.DataAccessLayer\\obj\\",
+      "outputPath": "E:\\Project\\CegekaAcademy\\Homeworks\\CegekaAcademy\\Tema 02 - SQL & ORM\\PetShelter.DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

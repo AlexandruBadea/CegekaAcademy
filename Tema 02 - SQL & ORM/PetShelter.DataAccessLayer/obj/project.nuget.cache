@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KtcOh24XLCVzCMhH6iqV3EqhZW9YLVU9L8tF4fXIOar1TFAMQSI9m50nbkTXeYd0WRkv1a9wrCketmev8DZrIQ==",
+  "dgSpecHash": "x/ThUGfBGmscQq6Nl8z8yyLKpA/EcB5SsyF6XfntDhYnoSllNi54Wpjcyyw6zCrfD5chrGZkEoZ3k2CV6bHo8w==",
   "success": true,
-  "projectFilePath": "E:\\Project\\CegekaAcademy\\LearningSessions\\02. SQL & ORM\\PetShelter\\PetShelter.DataAccessLayer\\PetShelter.DataAccessLayer.csproj",
+  "projectFilePath": "E:\\Project\\CegekaAcademy\\Homeworks\\CegekaAcademy\\Tema 02 - SQL & ORM\\PetShelter.DataAccessLayer\\PetShelter.DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sandu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Sandu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

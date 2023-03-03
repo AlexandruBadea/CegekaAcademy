@@ -1,0 +1,15 @@
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\bin\Debug\net7.0\PetShelter.BusinessLayer.deps.json
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\bin\Debug\net7.0\PetShelter.BusinessLayer.dll
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\bin\Debug\net7.0\PetShelter.BusinessLayer.pdb
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\bin\Debug\net7.0\PetShelter.DataAccessLayer.dll
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\bin\Debug\net7.0\PetShelter.DataAccessLayer.pdb
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\obj\Debug\net7.0\PetShelter.BusinessLayer.csproj.AssemblyReference.cache
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\obj\Debug\net7.0\PetShelter.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\obj\Debug\net7.0\PetShelter.BusinessLayer.AssemblyInfoInputs.cache
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\obj\Debug\net7.0\PetShelter.BusinessLayer.AssemblyInfo.cs
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\obj\Debug\net7.0\PetShelter.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\obj\Debug\net7.0\PetShelter.BusinessLayer.csproj.CopyComplete
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\obj\Debug\net7.0\PetShelter.BusinessLayer.dll
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\obj\Debug\net7.0\refint\PetShelter.BusinessLayer.dll
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\obj\Debug\net7.0\PetShelter.BusinessLayer.pdb
+E:\Project\CegekaAcademy\LearningSessions\04. Testing\After\PetShelter\PetShelter.BusinessLayer\obj\Debug\net7.0\ref\PetShelter.BusinessLayer.dll
